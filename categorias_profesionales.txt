@@ -1,0 +1,100 @@
+Desarrollador de Software
+Administrador de Sistemas
+Analista de Datos
+Especialista en Ciberseguridad
+Diseñador UX/UI
+Arquitecto de Cloud
+Ingeniero de DevOps
+Consultor Tecnológico
+Médico de Medicina General
+Enfermero/a Obstétrico-Ginecológica
+Fisioterapeuta
+Psicólogo Clínico
+Farmacéutico/a
+Auxiliar de Enfermería
+Odontólogo/a
+Técnico de Laboratorio
+Contable
+Asesor Fiscal
+Director/a de Recursos Humanos
+Técnico de Nóminas
+Analista Financiero
+Administrativo/a
+Auditor/a Interno
+Controller Financiero
+Comercial
+Especialista en Marketing Digital
+Project Manager
+Community Manager
+Director/a Comercial
+Gestor de Cuentas (Account Manager)
+Especialista en SEO/SEM
+Teleoperador/a
+Profesor/a de Educación Primaria
+Profesor/a de Educación Secundaria
+Educador/a Infantil
+Profesor/a Universitario
+Formador/a Corporativo
+Pedagogo/a
+Instructor/a de Pilates
+Ingeniero/a Civil
+Ingeniero/a Industrial
+Arquitecto/a
+Ingeniero/a de Telecomunicaciones
+Delineante
+Ingeniero/a Agrónomo
+Topógrafo/a
+Ingeniero/a Químico
+Cocinero/a
+Camarero/a de Sala
+Recepcionista de Hotel
+Maître
+Gobernanta de Hotel
+Agente de Viajes
+Guía Turístico
+Barman
+Electricista
+Fontanero/a
+Carpintero/a
+Albañil
+Pintor/a
+Cerrajero/a
+Mecánico/a de Automoción
+Soldador/a
+Conductor/a de Camión
+Repartidor/a
+Mozo/a de Almacén
+Gestor/a de Tráfico Logístico
+Conductor/a de Autobús
+Carretillero/a
+Piloto Comercial
+Capitán de Marina Mercante
+Abogado/a
+Procurador/a
+Notario/a
+Trabajador/a Social
+Periodista
+Redactor/a de Contenidos
+Traductor/a Jurado
+Criminólogo/a
+Fotógrafo/a
+Diseñador/a Gráfico
+Editor/a de Vídeo
+Actor/Actriz
+Músico Profesional
+Ilustrador/a
+Técnico de Sonido
+Locutor/a
+Personal de Limpieza
+Vigilante de Seguridad
+Conserje
+Peluquero/a
+Esteticista
+Jardinero/a
+Fumigador/a
+Ascensorista
+Agricultor/a
+Ganadero/a
+Técnico Forestal
+Ambientólogo/a
+Profesional Genérico
